@@ -1,5 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
+<%--Created by IntelliJ IDEA.
   User: jinhwankim
   Date: 2024. 9. 26.
   Time: 오후 4:12
