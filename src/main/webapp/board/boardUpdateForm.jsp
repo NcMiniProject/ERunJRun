@@ -293,7 +293,7 @@
 		            },
 		            success: function(){
 		                alert('글 수정 완료');
-		                location.href = "/board/boardView.do?pg=" +$('#pg').val();
+		                location.href = "./board/boardView.do?pg=" +$('#pg').val();
 		            },
 		            error: function(e){
 		                console.log(e);
